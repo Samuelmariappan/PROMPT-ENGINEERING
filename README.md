@@ -1,4 +1,4 @@
-[# EX NO: 1  
+# EX NO: 1  
 
 ## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)  
 
@@ -342,4 +342,3 @@ accurate, and valuable outputs. With the right prompt, LLMs can excel at a wide 
 answering questions and creating content to performing complex reasoning and summarization.
 Effective prompt engineering involves clarity, context, and the ability to iteratively refine prompts based
 on the model's responses.
-](https://github.com/SudharsanamRK/PROMPT-ENGINEERING)
